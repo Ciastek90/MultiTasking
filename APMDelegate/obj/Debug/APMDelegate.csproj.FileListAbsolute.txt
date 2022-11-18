@@ -1,0 +1,8 @@
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMDelegate\bin\Debug\APMDelegate.exe.config
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMDelegate\bin\Debug\APMDelegate.exe
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMDelegate\bin\Debug\APMDelegate.pdb
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMDelegate\obj\Debug\APMDelegate.csproj.AssemblyReference.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMDelegate\obj\Debug\APMDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMDelegate\obj\Debug\APMDelegate.csproj.CoreCompileInputs.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMDelegate\obj\Debug\APMDelegate.exe
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMDelegate\obj\Debug\APMDelegate.pdb

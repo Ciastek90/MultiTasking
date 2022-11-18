@@ -1,0 +1,15 @@
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\bin\Debug\net6.0\TAPAsyncAwait.exe
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\bin\Debug\net6.0\TAPAsyncAwait.deps.json
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\bin\Debug\net6.0\TAPAsyncAwait.runtimeconfig.json
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\bin\Debug\net6.0\TAPAsyncAwait.dll
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\bin\Debug\net6.0\TAPAsyncAwait.pdb
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\obj\Debug\net6.0\TAPAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\obj\Debug\net6.0\TAPAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\obj\Debug\net6.0\TAPAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\obj\Debug\net6.0\TAPAsyncAwait.AssemblyInfo.cs
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\obj\Debug\net6.0\TAPAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\obj\Debug\net6.0\TAPAsyncAwait.dll
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\obj\Debug\net6.0\refint\TAPAsyncAwait.dll
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\obj\Debug\net6.0\TAPAsyncAwait.pdb
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\obj\Debug\net6.0\TAPAsyncAwait.genruntimeconfig.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPAsyncAwait\obj\Debug\net6.0\ref\TAPAsyncAwait.dll

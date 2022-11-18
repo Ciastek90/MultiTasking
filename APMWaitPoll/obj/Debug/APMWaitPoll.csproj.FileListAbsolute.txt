@@ -1,0 +1,8 @@
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWaitPoll\bin\Debug\APMWaitPoll.exe.config
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWaitPoll\bin\Debug\APMWaitPoll.exe
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWaitPoll\bin\Debug\APMWaitPoll.pdb
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWaitPoll\obj\Debug\APMWaitPoll.csproj.AssemblyReference.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWaitPoll\obj\Debug\APMWaitPoll.csproj.SuggestedBindingRedirects.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWaitPoll\obj\Debug\APMWaitPoll.csproj.CoreCompileInputs.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWaitPoll\obj\Debug\APMWaitPoll.exe
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWaitPoll\obj\Debug\APMWaitPoll.pdb

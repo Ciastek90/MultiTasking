@@ -1,0 +1,15 @@
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\bin\Debug\net6.0\TAPManually.exe
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\bin\Debug\net6.0\TAPManually.deps.json
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\bin\Debug\net6.0\TAPManually.runtimeconfig.json
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\bin\Debug\net6.0\TAPManually.dll
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\bin\Debug\net6.0\TAPManually.pdb
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\obj\Debug\net6.0\TAPManually.csproj.AssemblyReference.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\obj\Debug\net6.0\TAPManually.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\obj\Debug\net6.0\TAPManually.AssemblyInfoInputs.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\obj\Debug\net6.0\TAPManually.AssemblyInfo.cs
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\obj\Debug\net6.0\TAPManually.csproj.CoreCompileInputs.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\obj\Debug\net6.0\TAPManually.dll
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\obj\Debug\net6.0\refint\TAPManually.dll
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\obj\Debug\net6.0\TAPManually.pdb
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\obj\Debug\net6.0\TAPManually.genruntimeconfig.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\TAPManually\obj\Debug\net6.0\ref\TAPManually.dll

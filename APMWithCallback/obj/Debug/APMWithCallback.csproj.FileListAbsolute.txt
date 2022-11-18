@@ -1,0 +1,8 @@
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWithCallback\bin\Debug\APMWithCallback.exe.config
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWithCallback\bin\Debug\APMWithCallback.exe
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWithCallback\bin\Debug\APMWithCallback.pdb
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWithCallback\obj\Debug\APMWithCallback.csproj.AssemblyReference.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWithCallback\obj\Debug\APMWithCallback.csproj.SuggestedBindingRedirects.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWithCallback\obj\Debug\APMWithCallback.csproj.CoreCompileInputs.cache
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWithCallback\obj\Debug\APMWithCallback.exe
+C:\Users\arekp\Downloads\keycloak-user-migration-master\keycloak-user-migration-master\docker\APMWithCallback\obj\Debug\APMWithCallback.pdb
