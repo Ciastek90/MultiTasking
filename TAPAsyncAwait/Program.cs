@@ -1,5 +1,5 @@
 ﻿/*
- * Napisz metodę asynchroniczną któa pobierze dane z bazy danych
+ * Napisz metodę asynchroniczną która pobierze dane z bazy danych
  */
 
 static Task<int> MethodTask(int delay)
