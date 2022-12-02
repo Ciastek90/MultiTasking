@@ -19,19 +19,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAPManually", "..\TAPManual
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAPAsyncAwait", "..\TAPAsyncAwait\TAPAsyncAwait.csproj", "{87874C57-3528-4927-AB7C-0A85ADA93A6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadLock", "..\DeadLock\DeadLock.csproj", "{7E887E24-2FDF-4572-9BD3-07492968E0EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeadLock", "..\DeadLock\DeadLock.csproj", "{7E887E24-2FDF-4572-9BD3-07492968E0EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncIO", "..\AsyncIO\AsyncIO.csproj", "{1D5AFF06-1E27-49EB-8A1C-33D617FCFD17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncIO", "..\AsyncIO\AsyncIO.csproj", "{1D5AFF06-1E27-49EB-8A1C-33D617FCFD17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockExample", "..\LockExample\LockExample.csproj", "{E2535F82-7158-40B1-AA7D-AD3AA2DA43EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LockExample", "..\LockExample\LockExample.csproj", "{E2535F82-7158-40B1-AA7D-AD3AA2DA43EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitor", "..\Monitor\Monitor.csproj", "{8EC64813-8927-400D-ABC3-D2C9A6362D12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monitor", "..\Monitor\Monitor.csproj", "{8EC64813-8927-400D-ABC3-D2C9A6362D12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderAndWriterLockSlim", "..\ReaderAndWriterLockSlim\ReaderAndWriterLockSlim.csproj", "{72CDB662-546C-43F9-96C0-D34ECDF49117}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReaderAndWriterLockSlim", "..\ReaderAndWriterLockSlim\ReaderAndWriterLockSlim.csproj", "{72CDB662-546C-43F9-96C0-D34ECDF49117}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaphore", "..\Semaphore\Semaphore.csproj", "{24573DBB-0A02-45DB-A673-354772BD324F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semaphore", "..\Semaphore\Semaphore.csproj", "{24573DBB-0A02-45DB-A673-354772BD324F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutex", "..\Mutex\Mutex.csproj", "{088C188F-CE4A-4CD1-81C6-7A7FE9F913AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mutex", "..\Mutex\Mutex.csproj", "{088C188F-CE4A-4CD1-81C6-7A7FE9F913AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSpinLock", "..\DemoSpinLock\DemoSpinLock.csproj", "{8E7255D7-C0BE-466C-A925-F53F7A442164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSpinWait", "..\DemoSpinWait\DemoSpinWait.csproj", "{9B7E65C5-A662-4FDF-A713-7A3BA308269B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutableVsConcurrent", "..\ImmutableVsConcurrent\ImmutableVsConcurrent.csproj", "{C61B177D-4B37-49B6-B303-5B518BED3104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoParallel", "..\DemoParallel\DemoParallel.csproj", "{C7AF6CC2-03D8-4F2B-AACC-E15356C00BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQDemo", "..\PLINQDemo\PLINQDemo.csproj", "{DA869287-CE72-4A26-9B37-ADEB3E5F7378}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +109,26 @@ Global
 		{088C188F-CE4A-4CD1-81C6-7A7FE9F913AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{088C188F-CE4A-4CD1-81C6-7A7FE9F913AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{088C188F-CE4A-4CD1-81C6-7A7FE9F913AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7255D7-C0BE-466C-A925-F53F7A442164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7255D7-C0BE-466C-A925-F53F7A442164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7255D7-C0BE-466C-A925-F53F7A442164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7255D7-C0BE-466C-A925-F53F7A442164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7E65C5-A662-4FDF-A713-7A3BA308269B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7E65C5-A662-4FDF-A713-7A3BA308269B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7E65C5-A662-4FDF-A713-7A3BA308269B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7E65C5-A662-4FDF-A713-7A3BA308269B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61B177D-4B37-49B6-B303-5B518BED3104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61B177D-4B37-49B6-B303-5B518BED3104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61B177D-4B37-49B6-B303-5B518BED3104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61B177D-4B37-49B6-B303-5B518BED3104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7AF6CC2-03D8-4F2B-AACC-E15356C00BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AF6CC2-03D8-4F2B-AACC-E15356C00BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AF6CC2-03D8-4F2B-AACC-E15356C00BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AF6CC2-03D8-4F2B-AACC-E15356C00BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA869287-CE72-4A26-9B37-ADEB3E5F7378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA869287-CE72-4A26-9B37-ADEB3E5F7378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA869287-CE72-4A26-9B37-ADEB3E5F7378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA869287-CE72-4A26-9B37-ADEB3E5F7378}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
